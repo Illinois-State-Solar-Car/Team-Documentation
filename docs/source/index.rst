@@ -7,22 +7,22 @@ We use it for documenting the team. Its very cool and will update now
 
 .. note::
 
-   We are a really cool team.
+   This documentation is in progress, so expect incomplete sections.
 
 Electrical
 --------
 
 .. toctree::
 
-   battery
-   telemetry
-   motor
-   array
+   battery<Electrical/Battery>
+   telemetry<Electrical/Telemetry>
+   motor<Electrical/Motor>
+   array<Electrical/Array>
 
 Mechanical
 --------
 
 .. toctree::
 
-   things
-   gooplightenment
+   things<Mechanical/Things>
+   gooplightenment<Mechanical/Goop>
