@@ -14,15 +14,15 @@ Electrical
 
 .. toctree::
 
-   battery<Electrical/Battery>
-   telemetry<Electrical/Telemetry>
-   motor<Electrical/Motor>
-   array<Electrical/Array>
+   Electrical/Battery/battery
+   Electrical/Telemetry/telemetry
+   Electrical/Motor/motor
+   Electrical/Array/array
 
 Mechanical
 --------
 
 .. toctree::
 
-   things<Mechanical/Things>
-   gooplightenment<Mechanical/Goop>
+   Mechanical/Things/things
+   Mechanical/Goop/gooplightenment
