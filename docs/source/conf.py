@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'ISU Solar Car'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
