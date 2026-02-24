@@ -1,7 +1,5 @@
 Telemetry Timeline
-=================
-
-TODO
+==================
 
 1. Get SIM CARD
 2. HDMI Cable for board
