@@ -5,6 +5,7 @@ Panel Lamination Guide:
 
 General:
     Keep Everything increadibly clean, especially the front film. Even small particles can ruin the whole process.
+    See Panel Obituary below.
 
 
 Specific Instructions:
@@ -41,3 +42,36 @@ Specific Instructions:
     22. Twist the nozzle to lock it
     23. Plug in the vaccum pump (its by the welding table with white plugs)
     24. Seal any holes or gas in the bag by pushign down on the seam table until air whistles stop.
+
+
+Panel Obituary:
+
+    1. Issues with this panel:
+        - During squeeging, the panel cracked in a place due to an elevated area. This was likely due to either lack of cleaning, or the tab underneath the panel. Make sure to be careful with elevated sections while squeeging, and clean properly to prevent them in the first place.
+
+    .. image:: /srcImg/jasonMayaPanelFront.jpg
+        :alt: Jason and Maya's panel
+        :align: center
+
+    .. image:: /srcImg/jasonMayaPanelBack.jpg
+        :alt: Jason and Maya's panel
+        :align: center
+
+    2.
+
+    .. image:: /srcImg/<ex1>
+        :alt: img1
+        :align: center
+
+
+    3.
+
+    .. image:: /srcImg/<ex2>
+        :alt: img2
+        :align: center
+
+    4.
+
+    .. image:: /srcImg/<ex3>
+        :alt: img3
+        :align: center
