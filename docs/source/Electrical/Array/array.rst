@@ -46,32 +46,63 @@ Specific Instructions:
 
 Panel Obituary:
 
-    1. Issues with this panel:
-        - During squeeging, the panel cracked in a place due to an elevated area. This was likely due to either lack of cleaning, or the tab underneath the panel. Make sure to be careful with elevated sections while squeeging, and clean properly to prevent them in the first place.
+    1. Jason and Maya's Test Panel #1 - rip 2026-2026:
+        - During squeeging, the panel cracked in a place due to an elevated area. This was likely due to either lack of cleaning, or the tab underneath the panel. 
+        - Make sure to be careful with elevated sections while squeeging, and clean properly to prevent them in the first place.
 
     .. image:: srcImg/jasonMayaPanelFront.jpg
-        :alt: Jason and Maya's panel
+        :alt: Jason and Maya's panel front
         :align: center
+        :margin: 20px
 
     .. image:: srcImg/jasonMayaPanelBack.jpg
-        :alt: Jason and Maya's panel
+        :alt: Jason and Maya's panel back
         :align: center
+        :margin: 20px
 
-    2.
+    2. Shane's Test Panel #1 - rip 2026-2026 
+        - Mixed resin before materials were cut.
+        - Left the whiteboard under the panel.
+        - Lifted the front film to try to realign cells.
+        - Used only one layer of fiberglass.
 
-    .. image:: srcImg/<ex1>
+    .. image:: srcImg/ShanePanel.jpg
         :alt: img1
         :align: center
+        :margin: 20px
 
+    3. Jake's Test panel: 
+        - Weird divots/bubbles
+        - dirty surface?
+        - Tabs encased in resin
+        - scary prying required
+        - hard to read with multimeter
 
-    3.
-
-    .. image:: srcImg/<ex2>
+    .. image:: srcImg/JakePanel1.jpg
         :alt: img2
         :align: center
+        :margin: 20px
 
-    4.
+    .. image:: srcImg/JakePanel2.jpg
+        :alt: img2
+        :align: center
+        :margin: 20px
 
-    .. image:: srcImg/<ex3>
+    4. Nick Test Panel: 2026-2026. 
+        - John Panel had a wife and kids he left behind. He worked hard at the sun factory with many describing him as "radiant". 
+        - Unfortunately, he got shot by epoxy straight to the face. RIP John Panel.
+
+    .. image:: srcImg/NickPanel1.jpg
         :alt: img3
         :align: center
+        :margin: 20px
+
+    .. image:: srcImg/NickPanel2.jpg
+        :alt: img3
+        :align: center
+        :margin: 20px
+
+    .. image:: srcImg/NickPanel3.jpg
+        :alt: img3
+        :align: center
+        :margin: 20px
