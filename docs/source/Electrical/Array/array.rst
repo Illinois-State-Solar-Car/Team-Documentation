@@ -53,12 +53,10 @@ Panel Obituary:
     .. image:: srcImg/jasonMayaPanelFront.jpg
         :alt: Jason and Maya's panel front
         :align: center
-        :margin: 20px
 
     .. image:: srcImg/jasonMayaPanelBack.jpg
         :alt: Jason and Maya's panel back
         :align: center
-        :margin: 20px
 
     2. Shane's Test Panel #1 - rip 2026-2026 
         - Mixed resin before materials were cut.
@@ -67,9 +65,8 @@ Panel Obituary:
         - Used only one layer of fiberglass.
 
     .. image:: srcImg/ShanePanel.jpg
-        :alt: img1
+        :alt: Shane's panel
         :align: center
-        :margin: 20px
 
     3. Jake's Test panel: 
         - Weird divots/bubbles
@@ -79,30 +76,26 @@ Panel Obituary:
         - hard to read with multimeter
 
     .. image:: srcImg/JakePanel1.jpg
-        :alt: img2
+        :alt: Jake's panel
         :align: center
-        :margin: 20px
 
     .. image:: srcImg/JakePanel2.jpg
-        :alt: img2
+        :alt: Jake's panel
         :align: center
-        :margin: 20px
 
     4. Nick Test Panel: 2026-2026. 
         - John Panel had a wife and kids he left behind. He worked hard at the sun factory with many describing him as "radiant". 
         - Unfortunately, he got shot by epoxy straight to the face. RIP John Panel.
 
     .. image:: srcImg/NickPanel1.jpg
-        :alt: img3
+        :alt: Nick's panel
         :align: center
-        :margin: 20px
 
     .. image:: srcImg/NickPanel2.jpg
-        :alt: img3
+        :alt: Nick's panel
         :align: center
         :margin: 20px
 
     .. image:: srcImg/NickPanel3.jpg
-        :alt: img3
+        :alt: Nick's panel
         :align: center
-        :margin: 20px
