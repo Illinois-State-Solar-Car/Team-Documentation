@@ -49,29 +49,29 @@ Panel Obituary:
     1. Issues with this panel:
         - During squeeging, the panel cracked in a place due to an elevated area. This was likely due to either lack of cleaning, or the tab underneath the panel. Make sure to be careful with elevated sections while squeeging, and clean properly to prevent them in the first place.
 
-    .. image:: ../srcImg/jasonMayaPanelFront.jpg
+    .. image:: srcImg/jasonMayaPanelFront.jpg
         :alt: Jason and Maya's panel
         :align: center
 
-    .. image:: ../srcImg/jasonMayaPanelBack.jpg
+    .. image:: srcImg/jasonMayaPanelBack.jpg
         :alt: Jason and Maya's panel
         :align: center
 
     2.
 
-    .. image:: ../srcImg/<ex1>
+    .. image:: srcImg/<ex1>
         :alt: img1
         :align: center
 
 
     3.
 
-    .. image:: ../srcImg/<ex2>
+    .. image:: srcImg/<ex2>
         :alt: img2
         :align: center
 
     4.
 
-    .. image:: ../srcImg/<ex3>
+    .. image:: srcImg/<ex3>
         :alt: img3
         :align: center
