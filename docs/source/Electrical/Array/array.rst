@@ -12,16 +12,22 @@ Specific Instructions:
     1.) Solder Panels Together
         - Ensure they are parallel with a small space between them
         - Also Tape them with kapton tape
+
     2.) Cut all bagging materials
         - 1 bag per panel approx 1 inch larger on all sides
         - 1 felt per bag approx 1-2 inches larger than the panel in all direction
         - 1 peel ply per panel approc 2 inches bigger than the panel in all directions
         - 1 bag per panel (some exceptions for larger ones) approc 4 inches bigger in all directitons
             - You can also wait here until placing the seam tape and measure to that instead.
+
     3.) Clean surface for bagging
+
     4.) Gather white boards for flippping and make sure they're all clean
+
     5.) Get smaller bag onto the back of the panel and flip
+
     6.) Mix resin
+    
     7.) Pour resin onto the front aof the panels and set the front film onto it.
     8.) Squeege out the excess resin an bubbles form the center outwards(be careful with cracking the panels here if there are any elevation changes(there shoulden't be but if there are be carefu with them))
     9.) Flip over and remove the bag
